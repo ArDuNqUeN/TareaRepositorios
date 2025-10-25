@@ -1,3 +1,4 @@
+@@ -0,0 +1,204 @@
 # Repaso Linux
 
 [TOC]
@@ -199,6 +200,5 @@ El comando `chmod` sirve para cambiar los permisos de uno o varios ficheros. Eso
 <img src="./Repaso%20Linux.assets/image-20251002172219677.png" alt="image-20251002172219677" style="zoom:67%;" />
 
 <img src="./Repaso%20Linux.assets/image-20251002163652354.png" alt="image-20251002163652354" style="zoom:50%;" />
-
 
 
