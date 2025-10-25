@@ -12,4 +12,4 @@ además del ejercicio Forty resuelto con comandos.
 - `README.md`: descripción del contenido del repositorio.
 
 ---
-**URL del repositorio remoto:** *(se añadirá después)*  
+**URL del repositorio remoto:** *https://github.com/ArDuNqUeN/TareaRepositorios*  
